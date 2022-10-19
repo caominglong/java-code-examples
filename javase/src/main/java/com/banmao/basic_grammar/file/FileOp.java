@@ -1,4 +1,4 @@
-package com.banmao.file;
+package com.banmao.basic_grammar.file;
 
 import java.io.IOException;
 import java.nio.file.Paths;

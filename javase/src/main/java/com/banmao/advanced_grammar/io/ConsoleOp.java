@@ -1,4 +1,4 @@
-package com.banmao.io;
+package com.banmao.advanced_grammar.io;
 
 import java.io.Console;
 
