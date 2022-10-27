@@ -1,3 +1,5 @@
+package com.banmao.basic_grammar.poly;
+
 /**
  * @author banmao
  * @version V1.0.0
@@ -5,4 +7,18 @@
  * @description
  */
 public class Food {
+
+    private String name;
+
+    public Food(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 }

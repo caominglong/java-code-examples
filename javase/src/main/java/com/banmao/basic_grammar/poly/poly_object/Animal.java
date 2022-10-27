@@ -1,3 +1,5 @@
+package com.banmao.basic_grammar.poly.poly_object;
+
 /**
  * @author banmao
  * @version V1.0.0
@@ -5,4 +7,8 @@
  * @description
  */
 public class Animal {
+
+    public void cry() {
+        System.out.println("动物在叫");
+    }
 }
