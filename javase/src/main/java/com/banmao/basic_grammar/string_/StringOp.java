@@ -1,4 +1,4 @@
-package com.banmao.basic_grammar.basictype;
+package com.banmao.basic_grammar.string_;
 
 /**
  * @author banmao
