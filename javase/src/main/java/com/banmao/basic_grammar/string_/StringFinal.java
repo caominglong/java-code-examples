@@ -39,7 +39,14 @@ public class StringFinal {
 //        final String aaa = "aaa";
 //        String bbb = "vvvv";
 //        aaa = bbb;
+        // 总结：final修饰
+        // 1、修饰基本类型、值不可变
+        // 2、修饰引用数据类型，引用地址不可变。但对象的值是可变的
 
+        // 总结：String
+        // String类本身用final修饰，所以该类不可被继承
+        // String对象不可变的关键在于，其中的字符数组是被final修饰的，比如final char values[]
+        // 而且是私有的。但是通过反射还是可以暴力破解。
     }
 }
 
