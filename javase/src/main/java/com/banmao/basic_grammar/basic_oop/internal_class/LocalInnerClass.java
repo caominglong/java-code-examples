@@ -4,7 +4,7 @@ package com.banmao.basic_grammar.basic_oop.internal_class;
  * @author banmao
  * @version V1.0.0
  * @date 2022/10/30 下午1:55
- * @description 局部内部类
+ * @description 局部内部类，局部内部类可以当作方法的一个局部变量
  */
 public class LocalInnerClass {
 

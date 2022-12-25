@@ -4,7 +4,7 @@ package com.banmao.basic_grammar.poly;
  * @author banmao
  * @version V1.0.0
  * @date 2022/10/24 下午9:23
- * @description
+ * @description 多态
  */
 public class Poly01 {
 
