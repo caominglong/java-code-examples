@@ -1,5 +1,8 @@
 package com.banmao.advanced_grammar.regexp;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author banmao
  * @version V1.0.0
@@ -18,5 +21,14 @@ public class RegExp10 {
         } else {
             System.out.println("整数");
         }
+    }
+
+    public <T> T testT() {
+        List<RegExp10> a = new ArrayList<>();
+
+
+        String str = "";
+        Object bb = str;
+        return null;
     }
 }

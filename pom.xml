@@ -11,8 +11,8 @@
 
     <modules>
         <module>javase</module>
-        <module>javaee</module>
         <module>data-structure-algorithm</module>
+        <module>j2ee</module>
     </modules>
 
 </project>

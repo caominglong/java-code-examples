@@ -311,6 +311,7 @@ INNODB：支持事务、行级锁定与外键
 create view [视图名] as select 基表
 
 MySQL用户的管理：
+root的密码为Cao12345#
 create user 'caominglong'@'localhost' identified by '123456'
 解读：
 'caominglong'为用户名
@@ -411,6 +412,9 @@ Pattern：
 Matcher：
 
 分组、捕获、反向引用的关系：
+
+
+
 
 
 
