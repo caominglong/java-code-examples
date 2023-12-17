@@ -1,5 +1,7 @@
 package com.banmao.advanced_grammar.design_pattern.agent;
 
+import sun.misc.ProxyGenerator;
+
 /**
  * @author banmao
  * @version V1.0.0
@@ -10,4 +12,8 @@ package com.banmao.advanced_grammar.design_pattern.agent;
  * （2）当通过代理类的对象调用方法a时，如何动态的去调用被代理类中的同名方法a（通过InvocationHandler接口的实现类及其方法invoke()）
  */
 public class Agent01 {
+
+    public static void main(String[] args) {
+//        ProxyGenerator.generateProxyClass()
+    }
 }
